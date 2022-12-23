@@ -1,6 +1,6 @@
 # MTG_Cards.csv
 
-Has 10 Columns:
+## Columns:
 1. Index (sorted from most to least popular)
 2. Name of Card
 3. Card Type[^1]
