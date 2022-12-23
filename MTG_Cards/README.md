@@ -13,7 +13,7 @@
 10. Card Rules
 
 
-### Column 5: Key
+#### Column 5: Key
 - B - Black Mana 
 - U - Blue Mana 
 - G - Green Mana 
@@ -21,7 +21,7 @@
 - W - White Mana 
 - X - X Mana of any color
 
-### Column 10: Key
+#### Column 10: Key
 - {T} - Tap Symbol 
 - {Q} - Untap Symbol
 
