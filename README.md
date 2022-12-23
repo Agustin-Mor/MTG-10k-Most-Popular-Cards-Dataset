@@ -14,6 +14,6 @@ It is the result of scaping the 10,000 most popular cards from [Card Kingdom](ht
 Information for MTG_Cards.csv can be found here.
 
 ## scrape.ipynb
-A jupyter notebook file for scrapping 10,000 most popular cards on [Card Kingdom](https://www.cardkingdom.com/).
+A jupyter notebook file for scrapping the 10,000 most popular cards on [Card Kingdom](https://www.cardkingdom.com/).
 
-Can be rerun in order to create a updated dataset.
+Can be rerun in order to create an updated dataset.
