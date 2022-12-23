@@ -22,8 +22,8 @@ Has 10 Columns:
 - X - X Mana of any color
 
 ### Column 10: Key
-- T - Tap Symbol 
-- Q - Untap Symbol
+- {T} - Tap Symbol 
+- {Q} - Untap Symbol
 
 
 [^1]: If Card type is a creature, the power and toughness will be displayed before 'Creature.' For example a power 3, toughness 4, vampire creature would look like this: "3/4 Creature - Vampire"
