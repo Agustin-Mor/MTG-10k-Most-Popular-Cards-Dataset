@@ -12,10 +12,10 @@ Has 10 Columns:
 9. Set Released In
 10. Card Rules[^5]
 
-[^1]: If Card type is a creature, the power and toughness will be displayed before 'Creature.'
+[^1] If Card type is a creature, the power and toughness will be displayed before 'Creature.'
 For example a power 3 toughness 4 vampire creature would look like this: "3/4 Creature - Vampire"
 
-[^2]: 
+[^2]
 - B - Black Mana 
 - U - Blue Mana 
 - G - Green Mana 
@@ -23,9 +23,9 @@ For example a power 3 toughness 4 vampire creature would look like this: "3/4 Cr
 - W - White Mana 
 - X - X Mana of any color
 
-[^3]: Missing values are set to NaN
-[^4]: Missing values are set to -1
+[^3  Missing values are set to NaN
+[^4] Missing values are set to -1
 
-[^5]:
+[^5]
 - T - Tap Symbol 
 - Q - Untap Symbol
