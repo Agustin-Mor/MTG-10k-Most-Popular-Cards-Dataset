@@ -11,7 +11,7 @@ This is the resulting dataset created by scrape.ipynb as of 12/23/2022.
 
 It is the result of scaping the 10,000 most popular cards from [Card Kingdom](https://www.cardkingdom.com/).
 
-Information for MTG_Cards.csv can be found here.
+Information for MTG_Cards.csv can be found [here](https://github.com/Agustin-Mor/MTG-10k-Most-Popular-Cards-Dataset/tree/main/MTG_Cards).
 
 ## scrape.ipynb
 A jupyter notebook file for scrapping the 10,000 most popular cards on [Card Kingdom](https://www.cardkingdom.com/).
