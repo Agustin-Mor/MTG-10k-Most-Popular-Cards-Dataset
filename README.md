@@ -1,6 +1,6 @@
 # MTG 10k Most Popular Cards Dataset
 
-Magic: The Gathering is a popular trading card game created by Wizard's of the Cost.
+Magic: The Gathering is a popular trading card game created by Wizard's of the Coast.
 
 This repository contains two files:
 1. MTG_Cards.csv
