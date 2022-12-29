@@ -27,6 +27,6 @@
 
 
 [^1]: If Card type is a creature, the power and toughness will be displayed before 'Creature.' For example a power 3, toughness 4, vampire creature would look like this: "3/4 Creature - Vampire"
-[^2]: Card casts with 'X Mana of any color' are counted as 1 mana
+[^2]: Cards with 'X Mana of any color' are counted as 1 mana
 [^3]: Missing values are set to NaN
 [^4]: Missing values are set to -1
