@@ -17,3 +17,5 @@ Information for MTG_Cards.csv can be found [here](https://github.com/Agustin-Mor
 A jupyter notebook file for scrapping the 10,000 most popular cards on [Card Kingdom](https://www.cardkingdom.com/).
 
 Can be rerun in order to create an updated dataset.
+
+If you have a faster computer you may need to introduce some artificial wait time to avoid HTML Status Code 429 (Too Many Requests).
